@@ -10,10 +10,10 @@ F:9:19.0:Fluorine
 Ne:10:20.183:Neon
 Na:11:22.991:Sodium
 Mg:12:24.32:Magnesium
-Al:13:26.98:Aluminum
+Al:13:26.98:Aluminum|Aluminium
 Si:14:28.09:Silicon
 P:15:30.975:Phosphorus
-S:16:32.066:Sulphur
+S:16:32.066:Sulphur|Sulfur
 Cl:17:35.457:Chlorine
 Ar:18:39.944:Argon
 K:19:39.1:Potassium
